@@ -1,0 +1,18 @@
+{
+  "name": "mhp",
+  "version": "1.0.0",
+  "description": "My personal homepage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js | faucet"
+  },
+  "keywords": [
+    "homepage"
+  ],
+  "author": "Rashad Majali <rashad.612@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^4.5.1"
+  }
+}
